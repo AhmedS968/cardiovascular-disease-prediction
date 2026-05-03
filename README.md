@@ -120,7 +120,7 @@ jupyter notebook Cardiovascular_Disease.ipynb
 
 ## Author
 
-** AhmedS968 **
+**AhmedS968**
 [GitHub Profile](https://github.com/AhmedS968)
 
 ---
